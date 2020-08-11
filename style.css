@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://media1.tenor.com/images/403d7501f7c172af324e5aef798bb440/tenor.gif?itemid=16134040);
+    /* https://i.pinimg.com/originals/26/92/3a/26923a9ba8a752a777b138bca1218ab1.gif */
+    background-attachment: fixed;
+    background-repeat:  no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Amiri';
+}
+
+.container {
+    display: flex;
+  }
+  
+  a{
+    margin-left: 45%;
+    margin-top: 30%;
+  }
+  
+  .container .btn {
+    /* position: absolute; */
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%); */
+    /* margin-left: 40%;
+    margin-top: 30%; */
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 30px 60px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Amiri';
+    /* box-shadow:4px black; */
+  }
+  
+  .container .btn:hover {
+    /* background: rgb(6,27,68);
+    background: linear-gradient(0deg, rgba(6,27,68,1) 0%, rgba(105,148,185,1) 100%); */
+    background-color: slategray;
+    color: white;
+  }
+
+  footer{
+    /* padding: 0.5px; */
+    margin: 0;
+    background-color: #e6f9ff;
+   height: 50px;
+   margin-top: 20%;
+   margin-bottom: 0px;
+    text-align: center;
+    color: #9db4c0;
+  }
