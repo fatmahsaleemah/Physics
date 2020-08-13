@@ -7,6 +7,7 @@ body{
     background-repeat:  no-repeat;
     background-size: 100% 100%;
     font-family: 'Amiri';
+    font-size: 16px;
 }
 
 .container {
@@ -35,6 +36,7 @@ body{
     border-radius: 5px;
     text-align: center;
     font-family: 'Amiri';
+    font-size: 16px;
     /* box-shadow:4px black; */
   }
   
@@ -54,4 +56,5 @@ body{
    margin-bottom: 0px;
     text-align: center;
     color: #9db4c0;
+    font-size: 16px;
   }

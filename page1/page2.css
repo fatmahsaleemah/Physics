@@ -3,6 +3,7 @@ body {
     padding: 0;
     background: #96b6d1;
     font-family: tahoma;
+    /* font-size: 16px; */
   }
   
   .skewedBox{
@@ -13,10 +14,12 @@ body {
     padding: 100px 0;
     transform: skew(0deg, -8deg) translateY(-120px);
     color:white;
+    font-size: 16px;
   }
   .container {
     padding: 150px 200px;
     transform: skew(0deg, 10deg);
+    font-size: 16px;
    
   }
   .container h1{
@@ -24,6 +27,7 @@ body {
     padding: 20px 0;
     font-size: 4.5em;
     font-family: 'Amiri';
+    /* font-size: 16px; */
   }
   .container  p{
     font-size: 1em;
@@ -32,11 +36,13 @@ body {
     line-height: 1.5em;
     width: 80%; 
     font-family: 'Amiri';
+    font-size: 16px;
   }
   
   .sec2{
     padding: 0 100px 150px;
     color: #0A5373;
+    font-size: 16px;
   }
   .sec2 h1{
     margin: 0;
@@ -44,11 +50,13 @@ body {
     font-size: 5em;
     text-align: right; 
     font-family: 'Amiri';
+    font-size: 16px;
   }
 
   h2{
     text-align: center;
     font-family: 'Amiri';
+    /* font-size: 16px; */
   }
   .sec2  p{
     font-size: 1em;
@@ -57,7 +65,7 @@ body {
     line-height: 1.5em;
     width: 80%;
     font-family: 'Amiri';
-   
+    font-size: 16px;
   }
 
 
@@ -67,19 +75,20 @@ body {
     width: 100%;
     text-align: center;
     background-color: #f2f2f2;
+    font-size: 16px;
   }
   
   #customers td, #customers th {
     font-family: 'Amiri';
     border: 1px solid #ddd;
     padding: 8px;
-    
+    font-size: 16px;
   }
   
-  #customers tr:nth-child(even){background-color: #f2f2f2;
+  #customers tr:nth-child(even){background-color: #f2f2f2; font-size: 16px;
 }
   
-  #customers tr:hover {background-color: #ddd;}
+  #customers tr:hover {background-color: #ddd; font-size: 16px;}
   
   #customers th {
     text-align: center;
@@ -88,6 +97,7 @@ body {
     background: rgb(6,27,68);
     background: linear-gradient(0deg, rgba(6,27,68,1) 0%, rgba(105,148,185,1) 100%);
     color: white;
+    font-size: 16px;
   }
 
   footer{
@@ -100,4 +110,5 @@ body {
     text-align: center;
     color: #9db4c0;
     font-family: 'Amiri';
+    font-size: 16px;
   }
